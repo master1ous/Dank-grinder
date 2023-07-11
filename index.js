@@ -446,7 +446,8 @@ function runDaily() {
 }
 
 function buyItem(item, count) {
-client.channels.cache.get(config.grinding.channel).sendSlash('270904126974590976', "shop buy", item, count);
+/*client.channels.cache.get(config.grinding.channel).sendSlash('270904126974590976', "shop buy", item, count);*/
+  webhook.send(`\\🚨 [${client.user.toString()} Due to Dank Memer's latest update, I wasn't able to make the system click on the dropdown to navigate to the item to purchase. Auto buy is deprecated.`)
 }
 
 function useItem(item) {
