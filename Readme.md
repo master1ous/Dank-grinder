@@ -3,6 +3,6 @@ This is a free to use, dank memer grinding selfbot. Programmed to help you grind
 - Plays minigames for you
 - Safe Mode: Enable or Disable the usage of the `/crime` command
 - Ratelimit proof
-- Auto item system: Buys lifes and automatically applies your lucky horseshoe once it expires
+- ~~Auto item system: Buys lifes and automatically applies your lucky horseshoe once it expires~~ Autobuy nolonger works with Dank Memer's latest update
 <br>
 ❤️ Please consider supporting us by <a href="https://discord.gg/azury">joining our discord</a>
