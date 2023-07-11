@@ -5,4 +5,4 @@ This is a free to use, dank memer grinding selfbot. Programmed to help you grind
 - Ratelimit proof
 - Auto item system: Buys lifes and automatically applies your lucky horseshoe once it expires
 <br>
-❤️ Please consider supporting us by [joining our discord](https://discord.gg/azury)
+❤️ Please consider supporting us by <span href="https://discord.gg/azury">joining our discord</span>
