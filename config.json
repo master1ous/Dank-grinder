@@ -1,0 +1,12 @@
+{
+  "token": "",
+  "prefix": "d!",
+  "website": "https://localhost:3000/",
+
+  "grinding": {
+    "channel": "",
+    "dmchannel": "",
+    "webhook": "",
+    "safemode": true
+  }
+}
